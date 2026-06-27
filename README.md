@@ -10,8 +10,6 @@ First saw about the donut in one of [Joma Tech's](https://www.youtube.com/watch?
 - [Original Blog by a1k0n](https://www.a1k0n.net/2011/07/20/donut-math.html)
 - [Optimized Version](https://www.a1k0n.net/2021/01/13/optimizing-donut.html)
 
----
-
 **`Rust-Related Docs`**
 - [std::io](https://doc.rust-lang.org/std/io/trait.Write.html)
 
