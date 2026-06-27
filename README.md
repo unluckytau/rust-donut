@@ -9,7 +9,7 @@ First saw about the donut in one of [Joma Tech's](https://www.youtube.com/watch?
 - [Optimized Version](https://www.a1k0n.net/2021/01/13/optimizing-donut.html)
 
 **`Rust-Related Docs`**
-- [`std::io`](https://doc.rust-lang.org/std/io/trait.Write.html)
+- [std::io](https://doc.rust-lang.org/std/io/trait.Write.html)
 
 ### III. To do List
 - [ ] Implement the original `donut.c` in Rust.
