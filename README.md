@@ -1,4 +1,4 @@
-# Rust Donut
+## <p align="left"> `Donut in Rust 🦀` </p>
 
 ### I. Why
 First saw about the donut in one of [Joma Tech's](https://www.youtube.com/watch?v=sW9npZVpiMI) video. Found the original code [Here](https://www.a1k0n.net/2011/07/20/donut-math.html) where it was implemented in C. However, I'd like to try implementing this in Rust.
@@ -12,7 +12,7 @@ First saw about the donut in one of [Joma Tech's](https://www.youtube.com/watch?
 
 **`Rust-Related Docs`**
 - [std::io](https://doc.rust-lang.org/std/io/trait.Write.html)
-
+- [primitive type f32](https://doc.rust-lang.org/std/primitive.f32.html)
 ---
 
 ### III. To do List
